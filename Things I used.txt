@@ -1,0 +1,3 @@
+- screen lock => to lock screen when i use navigation in header
+- react paratex => to make the items move with scrolling
+- bento box design => it's a way for designing (one big elenemt and then small ones element) => like appel web site designing
